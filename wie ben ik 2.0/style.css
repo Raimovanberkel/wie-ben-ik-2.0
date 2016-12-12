@@ -1,0 +1,51 @@
+
+
+
+body {background-image: url(achtergrond.jpg);
+cursor: not-allowed;
+}
+h1 { color: #000000 }
+p { color: #000000 }
+h2 { color: #000000 }
+
+
+#nav li ul {display: none;}
+
+#nav li:hover ul {display: block;}
+
+#nav { width: 10000px;}
+
+#nav li { float: left;
+	display: inline; }
+
+
+#nav li { float: left;
+	display: inline;
+	margin-right: 25px; }
+
+
+#nav li { float: left; 
+ display: inline; 
+ margin-right: 30px; 
+ list-style-type: none;}
+
+
+#nav li:hover { background: transparent; 
+cursor: wait;}
+
+#nav li { padding: 10px; }
+
+#nav li { padding: 10px;  background: #666; }
+
+#nav li { padding: 10px;  background: #fff;  border-radius: 5px 5px 0px 0px; }
+
+#nav li a:link { color: #99BDff; }
+
+#nav li a:visited { color : #99BDff; }
+
+#nav li a:hover { color :#99BDff;
+cursor: progress; }
+
+#nav li {font-size: 25px}
+
+#nav li {font-family: Comic Sans, Comic Sans MS, cursive}
